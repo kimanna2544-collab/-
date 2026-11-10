@@ -1,0 +1,25 @@
+{
+  "name": "TOEIC MASTER - 속성암기",
+  "short_name": "TOEIC MASTER",
+  "description": "토익 Part 5 정답이 보이는 속성암기 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#101827",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
